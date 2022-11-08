@@ -1,5 +1,5 @@
 # Superstore-dashboard
-##Interactive dashboard heroku link
+## Interactive dashboard heroku link
 
 https://superstore-insight.herokuapp.com/
 --NOTE: click any region in the checkbox to update the charts. this is due to the limited ram allocation for free dynos in heroku.
