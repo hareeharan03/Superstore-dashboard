@@ -1,5 +1,5 @@
 # Superstore-dashboard
-## dashboard
+## Please click below link to view dashboard which is deployed online
 
 https://superstore-dashboard.onrender.com/
 
